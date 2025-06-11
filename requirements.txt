@@ -1,4 +1,6 @@
 flask
-faster-whisper
+gunicorn
 openai
+faster-whisper
 requests
+elevenlabs
